@@ -1,0 +1,1 @@
+Generation mybatis documents, including the dao layer and service layer code.
